@@ -6,7 +6,7 @@ A simple snake game using the canvas element.
 
 ## Demo
 
-http://komrade.github.io/snake/index.html
+https://ptcodes.github.io/snake/
 
 ## How to play
 
